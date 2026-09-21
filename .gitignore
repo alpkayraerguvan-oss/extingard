@@ -4,3 +4,6 @@ Thumbs.db
 
 .vercel
 .env*
+
+# Windows bos not dosyalari
+Yeni Metin Belgesi*.txt
